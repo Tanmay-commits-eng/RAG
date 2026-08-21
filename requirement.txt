@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+streamlit
+langchain_community
+langchain_core
+langchain_huggingface
+langchain_text_splitters
+sentence-transformers
+faiss-cpu
